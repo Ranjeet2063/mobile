@@ -50,9 +50,6 @@ yarn-error.log
 /vendor/bundle/
 
 # Environment
-.env
-.env.local
-.env.production
 
 # Testing
 coverage/
@@ -62,3 +59,4 @@ coverage/
 *.swo
 *~
 .tmp/
+config.bat
